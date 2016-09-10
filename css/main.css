@@ -1,0 +1,103 @@
+/* CSS BANNER */
+.banner {
+	background-image: url(../img/dance_1.jpg);
+	background-size: cover;
+	padding: 30px 80px;
+	height: 350px;
+}
+.banner h1 {
+	font-size: 55px;
+	color: white;
+	font-weight: bold;
+}
+.banner p {
+	font-size: 15px;
+	color: white;
+}
+.botonInscribete {
+	padding: 15px;
+	margin: 20px 0;
+	color: white;
+	font-size: 15px;
+	background-color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	width: 80px;
+}
+/* CSS CLASES */ 
+.clases {
+	text-align: center;
+	padding: 50px;
+	background-image: url(../img/textura_2.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+}
+.clases p {
+	text-align: center;
+	font-size: 25px;
+	width: 800px;
+	margin: 15px auto 15px auto;
+}
+.clases img {
+	width: 100px;
+	height: auto;
+}
+.botonClases {
+	padding: 15px;
+	margin: 20px auto;
+	color: white;
+	font-size: 15px;
+	background-color: #24246D;
+	text-align: center;
+	width: 200px;
+	border-radius: 2%;
+	margin: 50px auto;
+	padding: 5px auto;
+}
+/* CSS INSTRUCTORES */
+.instructores img{
+	width: 600px;
+	height: auto;
+}
+.botonInstructores {
+	margin: 20px auto;
+	color: white;
+	font-size: 15px;
+	background-color: #24246D;
+	text-align: center;
+	display: absolute;
+	top: 100%;
+	left: 50%;
+	padding: 15px;
+	width: 300px;
+	height: auto;
+}
+/* CSS FRASE */
+.frase {
+	background-image: url(../img/textura_2.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+}
+.frase p {
+	text-align: center;
+	margin: 80px auto;
+	font-size: 35px;
+	width: 800px;
+}
+/* CSS UBICACIÓN */
+.ubicacion {
+	background-color: #24246D;
+	padding: 40px;
+}
+.ubicacion p {
+	color: white;
+	margin: 20px;
+	font-size: 15px;
+}
+.ubicacion h2 {
+	color: white;
+	margin: 20px;
+	font-size: 25px;
+}
+iframe {
+	margin: 0 20px;
+}

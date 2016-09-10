@@ -1,0 +1,43 @@
+/* CSS HEADER */
+header {
+	text-align: center;
+	padding-bottom: 40px;
+}
+header p {
+	font-size: 30px;
+	color: #24246D;
+	margin: 15px;
+	font-weight: bold;
+}
+header a {
+	text-decoration: none;
+	font-size: 20px;
+	color: lightgrey;
+	margin: 10px 20px;
+	font-weight: bold;
+} /* <-----Acá termina el css de header */
+/* CSS CONTACTO */
+.contacto {
+	background-image: url(../img/shoes_!.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	height: 450px;
+}
+.contacto h3 {
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-left: 40px;
+	color: #24246D;
+}
+.contacto form {
+	margin-left: 40px;
+} /* <----- Acá termina el css de contacto */
+/* CSS FOOTER */
+footer {
+	clear: both;
+	background-color: #24246D;
+	color: white;
+	margin: 40px auto 0 auto;
+	padding-bottom: 0;
+} /* <----- Acá termina el css de footer */

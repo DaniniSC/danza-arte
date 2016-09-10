@@ -1,0 +1,71 @@
+/* CSS BANNERNOSOTROS */
+.bannerNosotros {
+	background-image: url(../img/dance_7.jpg);
+	background-size: cover;
+}
+.bannerNosotros .grid-100 {
+	padding: 30px;
+	margin: 80px auto;
+	color: white;
+	font-size: 15px;
+	background-color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	width: 550px;
+}
+.bannerNosotros h1 {
+	font-size: 30px;
+}
+/* CSS PILARES */
+.pilares {
+	background-image: url(../img/cubes.png);
+	background-repeat: repeat;
+	background-size: cover;
+	padding: 80px;
+	text-align: center;
+	margin: 10px auto;
+}
+.pilares grid-container grid-30 {
+	margin: 2px;
+	padding: 30px;
+}
+.pilares h2 {
+	color: grey;
+	margin: 10px auto;
+}
+.lineaGris {
+	width: 200px;
+	border: 0.5px solid grey;
+	text-align: center;
+	margin: 10px auto;
+}
+.pilares p {
+	color: grey;
+	width: 250px;
+	margin: 10px auto;
+}
+/* CSS LISTAINSTRUCTORES */
+.listaInstructores h2 {
+	text-align: center;
+	margin: 40px auto;
+	font-size: 40px;
+}
+.listaInstructores img { /* <----- recorte de imágenes: parking lot */
+	width: 250px;
+	height: 180px;
+	overflow: hidden;
+}
+.listaInstructores .grid-100 {
+	margin-bottom: 50px;
+}
+/* CSS OTRAFRASE */
+.otraFrase {
+	background-image: url(../img/textura_2.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+}
+.otraFrase p {
+	text-align: center;
+	margin: 80px auto;
+	font-size: 35px;
+	width: 800px;
+}
